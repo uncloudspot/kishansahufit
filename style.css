@@ -1,0 +1,84 @@
+h1 {
+  background-color: red;
+  color:white;
+  text-align: center;
+  height: 70px;
+  font-size: 50px;
+  border:5px solid green;
+  position:relative;
+  top:600px;
+  
+}
+a {
+  color:white;
+}
+img {
+  width: 130px;
+  height: 120px;
+  position:relative;
+  bottom:350px;
+  margin-left: 60px;
+  border-radius: 80px;
+  float:left;
+  position:relative;
+  left:20%;
+  
+}
+h3 {
+  font-size: 60px;
+  position:relative;
+  top:40px;
+  color: yellow;
+  
+  text-align: center;
+  
+}
+h5 {
+  position:relative;
+  top:400px;
+  font-size: 20px;
+  background-color: lightgreen;
+  width: 50%;
+  border-left:solid 4px black;
+  position:relative;
+  animation-name: h5;
+  animation-duration: 1s;
+  animation-iteration-count: 100000;
+  animation-delay: 0s;
+}
+@keyframes h5 {
+  from {
+    top:400px
+    left:0;
+  }
+  to {
+    top:400px;
+    left:150px;
+  }
+}
+div {
+  background-color: blanchedalmond;
+  height: 100vh;
+  
+}
+. {
+  margin:0;
+  padding: 0;
+}
+#a1 {
+  color:black;
+  position:relative;
+  botto.
+}
+#a2 {
+  color:green;
+  position:relative;
+  top:2px;
+  
+  
+}
+b1 {
+  background-color: whitesmoke;
+}
+
+
